@@ -1,0 +1,2 @@
+# Cover the Decision capability schema in the existing source and dist alias tables.
+2
